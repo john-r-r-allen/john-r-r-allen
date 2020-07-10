@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hello 👋
+
+My name is Johnny Allen and I grew up in Metro Detroit :heart:, started my career in Fort Worth, Texas :cow: in 2016, and am now in Nashville, Tennessee :musical_note: :guitar:.
+I have experience working in:
+ - Ruby on Rails 
+ - PHP
+ - JS
+ - SQL
+ - HTML/CSS
+ - SQLRPGLE/RPGLE/RPG Free
+ - CLLE/CL
 
 <!--
 **john-r-r-allen/john-r-r-allen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
