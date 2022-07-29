@@ -9,6 +9,8 @@ I have experience working in:
  - HTML/CSS
  - RPG
  - CL
+ - Python (limited experience)
+ - Java (limited experience)
 
 <!--
 **john-r-r-allen/john-r-r-allen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
