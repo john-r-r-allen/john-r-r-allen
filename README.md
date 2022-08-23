@@ -1,16 +1,16 @@
 ## Hello
 
-My name is Johnny Allen and I grew up in Metro Detroit 🚗, started my career in Fort Worth, Texas 🐮 in 2016, and am now in Nashville, Tennessee 🎵 🎸. I am a software engineer, currently working mostly in SQL and Ruby on Rails, for Ramsey Solutions. Check out our [Ramsey In House](https://www.ramseyinhouse.com/) site! 
+My name is Johnny Allen and I grew up in Metro Detroit 🚗, started my career in Fort Worth, Texas 🐮 in 2016, and am now in Nashville, Tennessee 🎵 🎸. I am a software engineer, currently working mostly in SQL and Ruby for Ramsey Solutions. Check out our [Ramsey In House](https://www.ramseyinhouse.com/) site! 
 I have experience working in:
  - SQL
- - Ruby on Rails 
+ - Ruby (including Rails)
  - PHP
  - JavaScript
  - HTML/CSS
- - RPG
- - CL
  - Python (limited experience)
  - Java (limited experience)
+ - RPG
+ - CL
 
 <!--
 **john-r-r-allen/john-r-r-allen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
