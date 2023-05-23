@@ -1,6 +1,6 @@
 # Hello
 
-My name is Johnny Allen and I grew up in Metro Detroit, started my career in Fort Worth, Texas in 2016, and am now just outside of Nashville, Tennessee. I am currently working at TechnologyAdvice.
+My name is Johnny Allen and I grew up in Metro Detroit, started my career in Fort Worth, Texas in 2016. In 2020 I relocated to just outside of Nashville, Tennessee and in May of 2023 came back to Metro Detroit. I am currently working at TechnologyAdvice.
 
 ## Experience
 
